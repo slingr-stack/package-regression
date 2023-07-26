@@ -1,13 +1,7 @@
 {
    "label": "Package Regression",
    "name": "packageRegression",
-   "dependencies": [
-       {
-           "type": "package",
-           "name": "packageRegression2",
-           "version": "v1.0.0"
-       }
-   ],
+   "dependencies": [],
    "configuration":[
         {
             "name": "authenticationMethod",
